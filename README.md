@@ -9,6 +9,7 @@ The [cww](https://github.com/vegarant/cww) library from Antun is extended to all
 - [cww](https://github.com/vegarant/cww) Continuous Walsh sampling and wavelet reconstruction
 - [fastwht](https://bitbucket.org/vegarant/fastwht/src/master/) Fast Walsh transform
 - [SPGL-1](https://github.com/vegarant/spgl1) A solver for large-scale sparse reconstruction 
+- [GS-wavelets](https://github.com/milana-gataric/gs-wavelets) Generalized sampling for the reconstruction of wavelet coefficients from Fourier measurements 
 
 ### Getting started
 
