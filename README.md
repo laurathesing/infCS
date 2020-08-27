@@ -14,3 +14,5 @@ The [cww](https://github.com/vegarant/cww) library from Antun is extended to all
 ### Getting started
 
 The script “multiple_examples” chooses the hyperparameter which are altered for the different experiments in the paper. It is possible to change other hyperparameter in “Example_handle_1D” and “Example_handle_1D_flip”. The two scripts are closely related to "Ex_CS_1d" in cww. 
+
+For the Fourier examples use "CS_Fourier" in the file the wavelet as well as the number of samples can be chosen accordingly. The script is closely related to "GSCS_1D" in GS-wavelets.
